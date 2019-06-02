@@ -1,0 +1,17 @@
+{
+  "name": "major_2",
+  "version": "1.0.0",
+  "description": "MAJOR PROJECT FOR COLLEGE",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Swapnil Goyal",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^4.1.4"
+  },
+  "devDependencies": {
+    "spectron": "^5.0.0"
+  }
+}

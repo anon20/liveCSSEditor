@@ -1,0 +1,11 @@
+#aa, #strt_edtng{
+  padding: 10px;
+  border:none;
+  cursor: pointer;
+  margin:10px;
+
+}
+
+#aa:hover{
+  background-color:grey;
+}

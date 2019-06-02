@@ -1,0 +1,58 @@
+.editThis li{
+  list-style: none;
+  margin-right: 10px;
+}
+.editThis li:hover{
+  background-color: #b3acac;
+}
+.editThis button{
+  border:none;
+  margin-left: 2%;
+  padding: 10px;
+  font-size: 10px;
+  cursor: pointer;
+  border: 2px solid #1278bc;
+  background:linear-gradient(#09140a69,#070101);
+
+  color:white;font-weight: bold;
+  /* padding: 10px; */
+}
+.editThis button:hover{
+  background-color: #a2a2a2;
+
+}
+.editThis {
+  border: 1px solid black;
+  background-color:white;
+  position:absolute;
+  border-radius: 10px;
+  z-index: 100000;
+  background:linear-gradient(#09140a69,#070101);
+}
+#cssPropTble{
+  border-collapse:collapse;
+  border:none;
+  text-align: center;
+  padding: 10px;
+  font-size: 14px;
+}
+#cssPropTble th, #cssPropTble td{
+  padding: 10px 10px;
+}
+#cssPropTble tr{
+  color:white;
+}
+#cssPropTble th{
+  color:#57ccff;
+}
+#edt_btn_li{
+  float:right;
+}
+#editTheProps{
+  margin-left: 20px;
+}
+#saveTheProps{
+  float:right;
+  margin-right: 20px;
+  /* margin-right:10%; */
+}
