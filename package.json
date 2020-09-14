@@ -9,7 +9,7 @@
   "author": "Swapnil Goyal",
   "license": "MIT",
   "dependencies": {
-    "electron": "^4.1.4"
+    "electron": "^9.1.0"
   },
   "devDependencies": {
     "spectron": "^5.0.0"
